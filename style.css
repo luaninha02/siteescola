@@ -6,10 +6,17 @@
 }
 body{
     background-color: var(--cor-de-fundo);
-}}
+}
 
 * { 
 
     margin:0;
  padding:0;
+}
+
+.principal {
+    background-image: url(51868143-4922-41bf-bf5b-4ca9ccd87e48.jpeg);
+}
+.container {
+    
 }
